@@ -1,0 +1,21 @@
+: Author: Enrico Miglino
+: Email: balearicdynamics@gmail.com
+: Date: 12 / 05 / 2019
+: Revision: version# 1.0
+: License: LGPL 3.0
+
+= Project: {
+  arducycloid
+}
+
+Describe your project
+
+Arduino MKR1000 Drawing Machine
+A two - motors drawing machine you can control from the cloud
+For more information, wiring and hardware settings see on GitHub < https: //alicemirror.github.io/arducycloid/>
+
+== = License
+     This project is released under a {License} License.
+
+     == = Contributing
+          To contribute to this project please contact: balearicdynamics@gmail.com
